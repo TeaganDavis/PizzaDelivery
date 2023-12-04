@@ -1,0 +1,39 @@
+﻿
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCrust.Thin' />
+    Thin Crust
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCrust.Pan' />
+    Pan Crust
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCrust.Hand' />
+    Hand Tossed
+</label>
+
+<p>Crust Selection Checker</p>
+<ul>
+    @if (pizza.PizzaCrust.Thin)
+    {
+        <li>Thin Crust</li>
+    }
+    @if (pizza.PizzaCrust.Pan)
+    {
+        <li>Pan Crust</li>
+    }
+    @if (pizza.PizzaCrust.Hand)
+    {
+        <li>Hand Tossed</li>
+    }
+
+</ul>
+<p>Crust Price: $@pizza.GetCrustPrice()</p>
+
+@code {
+    Pizza pizza =  new Pizza();
+
+}
+
+
+

@@ -1,0 +1,30 @@
+﻿@page "/pizzadelivery"
+@rendermode InteractiveServer
+<h3>PizzaDelivery</h3>
+<h2>Pizza Crust</h2>
+<PizzaCrust></PizzaCrust>
+<h2>Pizza Toppings</h2>
+<PizzaTop></PizzaTop>
+<h3>Tip</h3>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCalc.twelve' />
+    12%
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCalc.fifteen' />
+    15%
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaCalc.eighteen' />
+    18%
+</label>
+<h3>Pizza Totals</h3>
+<h4>Base Total: $@pizza.CurrentPrice()</h4>
+<h4>Delivery Fee: $2.00</h4>
+<h4>Tip: $@pizza.GetTip()</h4>
+<h3>Final Total: $@pizza.EndTotal()</h3>
+
+
+@code {
+   Pizza pizza = new Pizza();
+}

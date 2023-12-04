@@ -1,0 +1,45 @@
+﻿
+
+<label>
+    <input type="checkbox" @bind='pizza.PizzaTopping.Pepperoni' />
+    Pepperoni
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaTopping.ExtraCheese' />
+    Extra Cheese
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaTopping.Ham' />
+    Ham
+</label>
+<label>
+    <input type="checkbox" @bind='pizza.PizzaTopping.Chicken' />
+    Chicken
+</label>
+<p>Topping Selection Checker</p>
+<ul>
+    @if (pizza.PizzaTopping.Pepperoni)
+    {
+        <li>Pepperoni</li>
+    }
+    @if (pizza.PizzaTopping.ExtraCheese)
+    {
+        <li>Extra Cheese</li>
+    }
+    @if (pizza.PizzaTopping.Ham)
+    {
+        <li>Ham</li>
+    }
+    @if (pizza.PizzaTopping.Chicken)
+    {
+        <li>Chicken</li>
+    }
+
+</ul>
+<p>Topping Price: $@pizza.GetFinalPrice()</p>
+
+@code {
+    Pizza pizza = new Pizza();
+
+}
+
