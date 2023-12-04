@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x/q6JWFoyIDJMf/eCU19w5Lg1t7LACSpCyzvWOXo3Oo=",
+  "Hash": "Irf/oNXiSA+lCnh4M0X1QVRb/t+F/qPnzfoftZMoWbc=",
   "Source": "BlazorPizza",
   "BasePath": "_content/BlazorPizza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorPizza\\wwwroot",
       "Source": "BlazorPizza",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\",
       "BasePath": "_content/BlazorPizza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPizza.styles.css",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPizza.styles.css",
       "SourceId": "BlazorPizza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "BlazorPizza.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPizza.styles.css"
+      "OriginalItemSpec": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPizza.styles.css"
     },
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPizza.bundle.scp.css",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPizza.bundle.scp.css",
       "SourceId": "BlazorPizza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "BlazorPizza.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andre\\Documents\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPizza.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPizza.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\app.css",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\app.css",
       "SourceId": "BlazorPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\favicon.png",
+      "Identity": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\favicon.png",
       "SourceId": "BlazorPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andre\\Documents\\BlazorPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Programming and Classes\\Term 6\\.NET\\PizzaRevised\\PizzaDelivery\\BlazorPizza\\wwwroot\\",
       "BasePath": "_content/BlazorPizza",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

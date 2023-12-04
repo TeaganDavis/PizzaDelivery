@@ -36,36 +36,43 @@ namespace BlazorPizza
         }
         public double EndTotal()
         {
-            double priceWFee = (CurrentPrice() + 2.00);
-            double endTotal = (priceWFee+((priceWFee) * PizzaCalc.MTip()));
+            double priceWFee = CurrentPrice() + 2.00;
+            double endTotal = priceWFee+(priceWFee * PizzaCalc.MTip());
             return endTotal;
         }
     }
     public class Crust { 
-    public bool Thin { get; set; }
-    public bool Pan { get; set; }
-    public bool Hand { get; set; }
-    public double CrustPrice()
-    {
-        double cTotal = 0;
-        if (Thin)
+        public bool Thin { get; set; }
+        public bool Pan { get; set; }
+        public bool Hand { get; set; }
+        public double CrustPrice()
         {
-            cTotal += 5.99;
-        }
-        if (Pan)
-        {
-            cTotal += 7.99;
-        }
-        if (Hand)
-        {
-            cTotal += 6.99;
-        }
-        
-        return cTotal;
+            double cTotal = 0;
+            if (Thin)
+            {
+                cTotal += 5.99;
+                Pan = false;
+                Hand = false;
+            }
+            if (Pan)
+            {
+                cTotal += 7.99;
+                Thin = false;
+                Hand = false;
+            }
+            if (Hand)
+            {
+                cTotal += 6.99;
+                Thin = false;
+                Pan = false;
+            }
 
+            return cTotal;
+        }
     }
-}
-public class PizzaCal
+
+
+    public class PizzaCal
     {
         public bool twelve { get; set; }
         public bool fifteen { get; set; }
@@ -92,7 +99,7 @@ public class PizzaCal
        
     }
 
-public class Topping
+    public class Topping
     {
         public bool Pepperoni { get; set; }
         public bool ExtraCheese { get; set; }

@@ -27,3 +27,33 @@ C:\Users\andre\Documents\BlazorPizza\obj\Debug\net8.0\refint\BlazorPizza.dll
 C:\Users\andre\Documents\BlazorPizza\obj\Debug\net8.0\BlazorPizza.pdb
 C:\Users\andre\Documents\BlazorPizza\obj\Debug\net8.0\BlazorPizza.genruntimeconfig.cache
 C:\Users\andre\Documents\BlazorPizza\obj\Debug\net8.0\ref\BlazorPizza.dll
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\appsettings.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.staticwebassets.runtime.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.exe
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.deps.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.runtimeconfig.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.dll
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\bin\Debug\net8.0\BlazorPizza.pdb
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.AssemblyInfoInputs.cache
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.AssemblyInfo.cs
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.csproj.CoreCompileInputs.cache
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.sourcelink.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets\msbuild.BlazorPizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorPizza.props
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPizza.props
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorPizza.props
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\scopedcss\bundle\BlazorPizza.styles.css
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\scopedcss\projectbundle\BlazorPizza.bundle.scp.css
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.dll
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\refint\BlazorPizza.dll
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.pdb
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\BlazorPizza.genruntimeconfig.cache
+D:\Programming and Classes\Term 6\.NET\PizzaRevised\PizzaDelivery\BlazorPizza\obj\Debug\net8.0\ref\BlazorPizza.dll

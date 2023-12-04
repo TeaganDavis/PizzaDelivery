@@ -1,24 +1,37 @@
 ﻿@page "/pizzadelivery"
 @rendermode InteractiveServer
-<h3>PizzaDelivery</h3>
-<h2>Pizza Crust</h2>
-<PizzaCrust></PizzaCrust>
-<h2>Pizza Toppings</h2>
-<PizzaTop></PizzaTop>
+
+<h2>PizzaDelivery</h2>
+
+<h3>Pizza Crust</h3>
+<PizzaCrust pizza="pizza"></PizzaCrust>
+
+<h3>Pizza Toppings</h3>
+<PizzaTop pizza="pizza"></PizzaTop>
+
 <h3>Tip</h3>
-<label>
-    <input type="checkbox" @bind='pizza.PizzaCalc.twelve' />
-    12%
-</label>
-<label>
-    <input type="checkbox" @bind='pizza.PizzaCalc.fifteen' />
-    15%
-</label>
-<label>
-    <input type="checkbox" @bind='pizza.PizzaCalc.eighteen' />
-    18%
-</label>
+<form>
+    <label>
+        <input type="radio" @bind='pizza.PizzaCalc.twelve' />
+        12%
+    </label>
+    <label>
+        <input type="radio" @bind='pizza.PizzaCalc.fifteen' />
+        15%
+    </label>
+    <label>
+        <input type="radio" @bind='pizza.PizzaCalc.eighteen' />
+        18%
+    </label>
+</form>
+
+
+<br>
+<button onclick="@refresh">Refresh Prices</button>
+<br>
+
 <h3>Pizza Totals</h3>
+
 <h4>Base Total: $@pizza.CurrentPrice()</h4>
 <h4>Delivery Fee: $2.00</h4>
 <h4>Tip: $@pizza.GetTip()</h4>
@@ -27,4 +40,9 @@
 
 @code {
    Pizza pizza = new Pizza();
+
+   private void refresh()
+   {
+        pizza.EndTotal();
+   }
 }
